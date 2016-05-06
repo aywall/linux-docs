@@ -1,0 +1,14 @@
+[Normal Mode]
+
+	:w saves a file
+	:q exit a file
+	:qa! - exit all files - changes lost
+
+	i - insert text before cursor
+	a - insert text after cursor
+	A - insert text after last char on line
+
+	v - highligt text
+	d - cut text
+	y - copy text
+	p - past text
