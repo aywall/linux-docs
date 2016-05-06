@@ -4,7 +4,11 @@
 	:q exit a file
 	:qa! - exit all files - changes lost
 
-	i - insert text before cursor
+	i a - insert text before after cursor
+	I A - inser text before after line
+	ge e - end of word/token left, right
+	{ } begining of previous, next paragraph
+	( ) begining of prevoius, next sentence
 	a - insert text after cursor
 	A - insert text after last char on line
 
@@ -12,3 +16,8 @@
 	d - cut text
 	y - copy text
 	p - past text
+
+	c - change
+	s - substitute
+
+	VIM QUICK REFERENCE CARD - http://tnerual.eriogerg.free.fr/vimqrc.html
